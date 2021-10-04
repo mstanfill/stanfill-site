@@ -20,6 +20,7 @@ bio: My research is situated in cultural studies, examining media fans, social m
 interests:
 - Fan Studies
 - Social Media
+- Platform Studies
 - Cultural Studies of Law
 
 # Education to show in About widget
