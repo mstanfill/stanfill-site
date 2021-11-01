@@ -51,8 +51,8 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=BeWBgBgAAAAJ&hl=en
 - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
