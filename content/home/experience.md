@@ -35,28 +35,10 @@ experience:
     company: University of Central Florida
     company_url: ''
     company_logo: ''
-    location: Florida 
-    date_start: '2020-08-08'
-    date_end: '2021-08-07'
-    description: '|2-' Texts and Technology Program and Department of English
-
-- title: Assistant Professor
-    company: University of Central Florida
-    company_url: ''
-    company_logo: ''
-    location: Florida 
-    date_start: '2018-08-08'
-    date_end: '2020-08-07'
-    description: '|2-'Texts and Technology Program and Nicholson School of Communication and Media
-
-- title: Assistant Professor
-    company: University of Central Florida
-    company_url: ''
-    company_logo: ''
-    location: Florida 
-    date_start: '2016-08-08'
-    date_end: '2018-08-07'
-    description: '|2-'Texts and Technology Program and School of Visual Art and Design
+    location: Florida
+    date_start: '2021-08-08'
+    date_end: ''
+    description: Texts and Technology Program and Department of English
 
 design:
   columns: '2'
