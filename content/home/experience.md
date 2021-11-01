@@ -40,7 +40,7 @@ experience:
     date_end: '2021-08-07'
     description: Texts and Technology Program and Department of English
 
- - title: Assistant Professor
+  - title: Assistant Professor
     company: University of Central Florida
     company_url: ''
     company_logo: ''
